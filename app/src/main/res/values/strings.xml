@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AMVN_M5</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="A1_edPhoneNumber">Số điện thoại</string>
+    <string name="A1_edPassword">Mật khẩu</string>
+    <string name="A1_btnLogin">Đăng nhập</string>
+    <string name="A1_btnCancel">Thoát</string>
+    <string name="A1_btnForgetPassword">Quên mật khẩu</string>
+    <string name="A1_progressLogin">Đang đăng nhập, vui lòng chờ ...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AMVN_M5</string>
+    <string name="A1_edPhoneNumber">Phone number</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="A1_edPassword">Password</string>
+    <string name="A1_btnLogin">Login</string>
+    <string name="A1_btnCancel">Cancel</string>
+    <string name="A1_btnForgetPassword">Forget my password</string>
+    <string name="A1_progressLogin">Please wait ...</string>
+</resources>
